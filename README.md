@@ -4,4 +4,4 @@ This example shows how to leverage [Okteto](https://github.com/okteto/okteto) to
 
 - A *React* based front-end, using [webpack](https://webpack.js.org) as bundler and *hot-reload server* for development.
 - A very simple Node.js API using [Express](https://expressjs.com).
-- A [MongoDB](https://www.mongodb.com) database.
+- A [MongoDB](https://www.mongodb.com) database......
